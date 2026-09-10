@@ -1,3 +1,4 @@
 # Econometria-con-Python-2026
 
-markdown[Haz clic aquí para ver el Notebook completo en nbviewer](AQUÍ_VA_EL_ENLACE)
+Puedes ver el análisis econométrico completo con todas sus gráficas e imágenes interactivas en el siguiente enlace:
+👉 [Ver Notebook OLS_simple01_CEOSAL1 en nbviewer](https://nbviewer.org)
